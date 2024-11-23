@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "cvhome-saas",
-  base: "/",
+  base: "/cvhome-saas-doc",
   description: "e-commerce saas solution",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
